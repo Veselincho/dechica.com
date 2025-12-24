@@ -1,7 +1,6 @@
 # DeChica Menu – Nostalgic Sounds
 
-Ever wanted to relive those funny and nostalgic sound clips from the past? That’s exactly what this project does!
-
+I felt nostalgic about this old site from the past and wanted to hear those voices again.
 I recreated a simple menu with the original audio from an old site, so you can hover over items and hear the original sounds.
 
 ---
@@ -19,7 +18,7 @@ All audio is included in the `sounds/` folder.
 
 Visit the live site here: [https://dechicacom.vercel.app/](https://dechicacom.vercel.app/)
 
-Hover over the menu items to hear the nostalgic sounds — it’s like a little trip back in time! 😄
+Hover over the menu items to hear the voices — it’s like a little trip back in time! 😄
 
 ---
 
